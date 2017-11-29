@@ -1,0 +1,169 @@
+22:03:55,960 DEBUG Reflections:254 - could not scan file br/ufes/inf/lprm/scene/base/SituationBaseRules.drl in url jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/ with scanner TypeAnnotationsScanner
+22:03:55,965  INFO Reflections:229 - Reflections took 32 ms to scan 1 urls, producing 28 keys and 28 values 
+22:03:56,001 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/situation-model/0.10.2/situation-model-0.10.2.jar!/
+22:03:56,004  INFO Reflections:229 - Reflections took 2 ms to scan 1 urls, producing 3 keys and 4 values 
+22:03:56,005 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:03:56,009  INFO Reflections:229 - Reflections took 3 ms to scan 1 urls, producing 5 keys and 5 values 
+22:03:56,010 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:03:56,016  INFO Reflections:229 - Reflections took 5 ms to scan 1 urls, producing 8 keys and 9 values 
+22:03:56,017 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/situation-model/0.10.2/situation-model-0.10.2.jar!/
+22:03:56,018  INFO Reflections:229 - Reflections took 1 ms to scan 1 urls, producing 0 keys and 0 values 
+22:03:56,021 DEBUG DefaultAgenda:1397 - State was INACTIVE is now FIRING_UNTIL_HALT
+22:03:56,024 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+22:03:56,034 DEBUG DefaultAgenda:1397 - State was INACTIVE_ON_FIRING_UNTIL_HALT is now FIRING_UNTIL_HALT
+22:03:56,042 DEBUG SCENELogger:24 - INSERT - ews.vehiclecollision.entities.Truck@25aeb5ac
+22:03:56,045 DEBUG SCENELogger:34 - UPDATE - ews.vehiclecollision.entities.Truck@25aeb5ac
+22:03:56,047 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+22:03:56,047 DEBUG DefaultAgenda:1397 - State was INACTIVE_ON_FIRING_UNTIL_HALT is now FIRING_UNTIL_HALT
+22:03:56,054 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+22:04:02,605  INFO Test01:175 - Creating kieBase
+22:05:04,350  INFO ClasspathKieProject:131 - Found kmodule: file:/D:/Projects/InterIOT/Workplan/WP3-Management/data/tests/FAT/input/workspace_scene/ews/target/classes/META-INF/kmodule.xml
+22:05:04,360 DEBUG ClasspathKieProject:400 - KieModule URL type=file url=/D:/Projects/InterIOT/Workplan/WP3-Management/data/tests/FAT/input/workspace_scene/ews/target/classes
+22:05:05,022 DEBUG ClasspathKieProject:293 - Found and used pom.properties D:\Projects\InterIOT\Workplan\WP3-Management\data\tests\FAT\input\workspace_scene\ews\target\classes\META-INF\maven\com.semiotics\ews\pom.properties
+22:05:05,036 DEBUG ClasspathKieProject:118 - Discovered classpath module com.semiotics:ews:1.0-SNAPSHOT
+22:05:05,046  INFO KieRepositoryImpl:119 - KieModule was added: FileKieModule[releaseId=com.semiotics:ews:1.0-SNAPSHOT,file=D:\Projects\InterIOT\Workplan\WP3-Management\data\tests\FAT\input\workspace_scene\ews\target\classes]
+22:05:05,046  INFO ClasspathKieProject:131 - Found kmodule: jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/META-INF/kmodule.xml
+22:05:05,047 DEBUG ClasspathKieProject:400 - KieModule URL type=jar url=/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+22:05:05,067  WARN ClasspathKieProject:261 - Unable to find pom.properties in /C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+22:05:05,069  WARN ClasspathKieProject:231 - Unable to load pom.properties from/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+22:05:05,070  WARN ClasspathKieProject:185 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+22:05:05,080 DEBUG ClasspathKieProject:118 - Discovered classpath module org.default:artifact:1.0.0-SNAPSHOT
+22:05:05,081  INFO KieRepositoryImpl:119 - KieModule was added: ZipKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT,file=C:\Users\LuizRebeloMoreiraJ\.m2\repository\br\ufes\inf\lprm\scene-core\0.10.7\scene-core-0.10.7.jar]
+22:05:11,602 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:05:11,668 DEBUG Reflections:254 - could not scan file br/ufes/inf/lprm/scene/base/SituationBaseRules.drl in url jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/ with scanner TypeAnnotationsScanner
+22:05:11,668 DEBUG Reflections:254 - could not scan file br/ufes/inf/lprm/scene/base/SituationBaseRules.drl in url jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/ with scanner SubTypesScanner
+22:05:11,680  INFO Reflections:229 - Reflections took 76 ms to scan 1 urls, producing 28 keys and 28 values 
+22:05:11,733 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/situation-model/0.10.2/situation-model-0.10.2.jar!/
+22:05:11,736  INFO Reflections:229 - Reflections took 2 ms to scan 1 urls, producing 3 keys and 4 values 
+22:05:11,737 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:05:11,767  INFO Reflections:229 - Reflections took 29 ms to scan 1 urls, producing 5 keys and 5 values 
+22:05:11,770 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:05:11,776  INFO Reflections:229 - Reflections took 6 ms to scan 1 urls, producing 8 keys and 9 values 
+22:05:11,778 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/situation-model/0.10.2/situation-model-0.10.2.jar!/
+22:05:11,781  INFO Reflections:229 - Reflections took 1 ms to scan 1 urls, producing 0 keys and 0 values 
+22:05:11,792 DEBUG DefaultAgenda:1397 - State was INACTIVE is now FIRING_UNTIL_HALT
+22:05:11,795 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+22:05:11,829 DEBUG SCENELogger:24 - INSERT - ews.vehiclecollision.entities.Truck@59bbe88a
+22:05:11,832 DEBUG SCENELogger:34 - UPDATE - ews.vehiclecollision.entities.Truck@59bbe88a
+22:05:11,832 DEBUG DefaultAgenda:1397 - State was INACTIVE_ON_FIRING_UNTIL_HALT is now FIRING_UNTIL_HALT
+22:05:11,842 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+22:05:20,154  INFO Test01:175 - Creating kieBase
+22:09:25,721  INFO ClasspathKieProject:131 - Found kmodule: file:/D:/Projects/InterIOT/Workplan/WP3-Management/data/tests/FAT/input/workspace_scene/ews/target/classes/META-INF/kmodule.xml
+22:09:25,728 DEBUG ClasspathKieProject:400 - KieModule URL type=file url=/D:/Projects/InterIOT/Workplan/WP3-Management/data/tests/FAT/input/workspace_scene/ews/target/classes
+22:09:26,095 DEBUG ClasspathKieProject:293 - Found and used pom.properties D:\Projects\InterIOT\Workplan\WP3-Management\data\tests\FAT\input\workspace_scene\ews\target\classes\META-INF\maven\com.semiotics\ews\pom.properties
+22:09:26,102 DEBUG ClasspathKieProject:118 - Discovered classpath module com.semiotics:ews:1.0-SNAPSHOT
+22:09:26,107  INFO KieRepositoryImpl:119 - KieModule was added: FileKieModule[releaseId=com.semiotics:ews:1.0-SNAPSHOT,file=D:\Projects\InterIOT\Workplan\WP3-Management\data\tests\FAT\input\workspace_scene\ews\target\classes]
+22:09:26,107  INFO ClasspathKieProject:131 - Found kmodule: jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/META-INF/kmodule.xml
+22:09:26,108 DEBUG ClasspathKieProject:400 - KieModule URL type=jar url=/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+22:09:26,114  WARN ClasspathKieProject:261 - Unable to find pom.properties in /C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+22:09:26,115  WARN ClasspathKieProject:231 - Unable to load pom.properties from/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+22:09:26,115  WARN ClasspathKieProject:185 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+22:09:26,122 DEBUG ClasspathKieProject:118 - Discovered classpath module org.default:artifact:1.0.0-SNAPSHOT
+22:09:26,122  INFO KieRepositoryImpl:119 - KieModule was added: ZipKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT,file=C:\Users\LuizRebeloMoreiraJ\.m2\repository\br\ufes\inf\lprm\scene-core\0.10.7\scene-core-0.10.7.jar]
+22:09:29,399 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:09:29,430 DEBUG Reflections:254 - could not scan file br/ufes/inf/lprm/scene/base/SituationBaseRules.drl in url jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/ with scanner TypeAnnotationsScanner
+22:09:29,431 DEBUG Reflections:254 - could not scan file br/ufes/inf/lprm/scene/base/SituationBaseRules.drl in url jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/ with scanner SubTypesScanner
+22:09:29,437  INFO Reflections:229 - Reflections took 37 ms to scan 1 urls, producing 28 keys and 28 values 
+22:09:29,458 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/situation-model/0.10.2/situation-model-0.10.2.jar!/
+22:09:29,460  INFO Reflections:229 - Reflections took 2 ms to scan 1 urls, producing 3 keys and 4 values 
+22:09:29,462 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:09:29,465  INFO Reflections:229 - Reflections took 3 ms to scan 1 urls, producing 5 keys and 5 values 
+22:09:29,467 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:09:29,472  INFO Reflections:229 - Reflections took 5 ms to scan 1 urls, producing 8 keys and 9 values 
+22:09:29,474 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/situation-model/0.10.2/situation-model-0.10.2.jar!/
+22:09:29,476  INFO Reflections:229 - Reflections took 1 ms to scan 1 urls, producing 0 keys and 0 values 
+22:09:29,489 DEBUG DefaultAgenda:1397 - State was INACTIVE is now FIRING_UNTIL_HALT
+22:09:29,491 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+22:09:29,496 DEBUG DefaultAgenda:1397 - State was INACTIVE_ON_FIRING_UNTIL_HALT is now FIRING_UNTIL_HALT
+22:09:29,496 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+22:09:29,498 DEBUG SCENELogger:24 - INSERT - ews.vehiclecollision.entities.Truck@6e9c413e
+22:09:29,500 DEBUG SCENELogger:34 - UPDATE - ews.vehiclecollision.entities.Truck@6e9c413e
+22:09:29,502 DEBUG DefaultAgenda:1397 - State was INACTIVE_ON_FIRING_UNTIL_HALT is now FIRING_UNTIL_HALT
+22:09:29,511 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+22:15:55,862  INFO ClasspathKieProject:131 - Found kmodule: file:/D:/Projects/InterIOT/Workplan/WP3-Management/data/tests/FAT/input/workspace_scene/ews/target/classes/META-INF/kmodule.xml
+22:15:55,868 DEBUG ClasspathKieProject:400 - KieModule URL type=file url=/D:/Projects/InterIOT/Workplan/WP3-Management/data/tests/FAT/input/workspace_scene/ews/target/classes
+22:15:56,245 DEBUG ClasspathKieProject:293 - Found and used pom.properties D:\Projects\InterIOT\Workplan\WP3-Management\data\tests\FAT\input\workspace_scene\ews\target\classes\META-INF\maven\com.semiotics\ews\pom.properties
+22:15:56,250 DEBUG ClasspathKieProject:118 - Discovered classpath module com.semiotics:ews:1.0-SNAPSHOT
+22:15:56,256  INFO KieRepositoryImpl:119 - KieModule was added: FileKieModule[releaseId=com.semiotics:ews:1.0-SNAPSHOT,file=D:\Projects\InterIOT\Workplan\WP3-Management\data\tests\FAT\input\workspace_scene\ews\target\classes]
+22:15:56,257  INFO ClasspathKieProject:131 - Found kmodule: jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/META-INF/kmodule.xml
+22:15:56,257 DEBUG ClasspathKieProject:400 - KieModule URL type=jar url=/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+22:15:56,267  WARN ClasspathKieProject:261 - Unable to find pom.properties in /C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+22:15:56,267  WARN ClasspathKieProject:231 - Unable to load pom.properties from/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+22:15:56,268  WARN ClasspathKieProject:185 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+22:15:56,276 DEBUG ClasspathKieProject:118 - Discovered classpath module org.default:artifact:1.0.0-SNAPSHOT
+22:15:56,277  INFO KieRepositoryImpl:119 - KieModule was added: ZipKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT,file=C:\Users\LuizRebeloMoreiraJ\.m2\repository\br\ufes\inf\lprm\scene-core\0.10.7\scene-core-0.10.7.jar]
+22:15:59,395 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:15:59,418 DEBUG Reflections:254 - could not scan file br/ufes/inf/lprm/scene/base/SituationBaseRules.drl in url jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/ with scanner TypeAnnotationsScanner
+22:15:59,419 DEBUG Reflections:254 - could not scan file br/ufes/inf/lprm/scene/base/SituationBaseRules.drl in url jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/ with scanner SubTypesScanner
+22:15:59,425  INFO Reflections:229 - Reflections took 29 ms to scan 1 urls, producing 28 keys and 28 values 
+22:15:59,447 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/situation-model/0.10.2/situation-model-0.10.2.jar!/
+22:15:59,450  INFO Reflections:229 - Reflections took 2 ms to scan 1 urls, producing 3 keys and 4 values 
+22:15:59,451 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:15:59,455  INFO Reflections:229 - Reflections took 3 ms to scan 1 urls, producing 5 keys and 5 values 
+22:15:59,456 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+22:15:59,463  INFO Reflections:229 - Reflections took 6 ms to scan 1 urls, producing 8 keys and 9 values 
+22:15:59,465 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/situation-model/0.10.2/situation-model-0.10.2.jar!/
+22:15:59,466  INFO Reflections:229 - Reflections took 1 ms to scan 1 urls, producing 0 keys and 0 values 
+22:15:59,470 DEBUG DefaultAgenda:1397 - State was INACTIVE is now FIRING_UNTIL_HALT
+22:15:59,473 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+22:15:59,483 DEBUG DefaultAgenda:1397 - State was INACTIVE_ON_FIRING_UNTIL_HALT is now FIRING_UNTIL_HALT
+22:15:59,483 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+22:15:59,484 DEBUG SCENELogger:24 - INSERT - ews.vehiclecollision.entities.Truck@6e9c413e
+22:15:59,486 DEBUG DefaultAgenda:1397 - State was INACTIVE_ON_FIRING_UNTIL_HALT is now FIRING_UNTIL_HALT
+22:15:59,486 DEBUG SCENELogger:34 - UPDATE - ews.vehiclecollision.entities.Truck@6e9c413e
+22:15:59,492 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+18:06:24,272  INFO ClasspathKieProject:131 - Found kmodule: file:/D:/Projects/InterIOT/Workplan/WP3-Management/data/tests/FAT/input/workspace_scene/ews/target/classes/META-INF/kmodule.xml
+18:06:24,314 DEBUG ClasspathKieProject:400 - KieModule URL type=file url=/D:/Projects/InterIOT/Workplan/WP3-Management/data/tests/FAT/input/workspace_scene/ews/target/classes
+18:06:24,718 DEBUG ClasspathKieProject:293 - Found and used pom.properties D:\Projects\InterIOT\Workplan\WP3-Management\data\tests\FAT\input\workspace_scene\ews\target\classes\META-INF\maven\com.semiotics\ews\pom.properties
+18:06:24,723 DEBUG ClasspathKieProject:118 - Discovered classpath module com.semiotics:ews:1.0-SNAPSHOT
+18:06:24,729  INFO KieRepositoryImpl:119 - KieModule was added: FileKieModule[releaseId=com.semiotics:ews:1.0-SNAPSHOT,file=D:\Projects\InterIOT\Workplan\WP3-Management\data\tests\FAT\input\workspace_scene\ews\target\classes]
+18:06:24,729  INFO ClasspathKieProject:131 - Found kmodule: jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/META-INF/kmodule.xml
+18:06:24,731 DEBUG ClasspathKieProject:400 - KieModule URL type=jar url=/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+18:06:24,737  WARN ClasspathKieProject:261 - Unable to find pom.properties in /C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+18:06:24,737  WARN ClasspathKieProject:231 - Unable to load pom.properties from/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar
+18:06:24,737  WARN ClasspathKieProject:185 - Cannot find maven pom properties for this project. Using the container's default ReleaseId
+18:06:24,744 DEBUG ClasspathKieProject:118 - Discovered classpath module org.default:artifact:1.0.0-SNAPSHOT
+18:06:24,744  INFO KieRepositoryImpl:119 - KieModule was added: ZipKieModule[releaseId=org.default:artifact:1.0.0-SNAPSHOT,file=C:\Users\LuizRebeloMoreiraJ\.m2\repository\br\ufes\inf\lprm\scene-core\0.10.7\scene-core-0.10.7.jar]
+18:06:27,640 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+18:06:27,657 DEBUG Reflections:254 - could not scan file br/ufes/inf/lprm/scene/base/SituationBaseRules.drl in url jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/ with scanner TypeAnnotationsScanner
+18:06:27,657 DEBUG Reflections:254 - could not scan file br/ufes/inf/lprm/scene/base/SituationBaseRules.drl in url jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/ with scanner SubTypesScanner
+18:06:27,663  INFO Reflections:229 - Reflections took 22 ms to scan 1 urls, producing 28 keys and 28 values 
+18:06:27,682 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/situation-model/0.10.2/situation-model-0.10.2.jar!/
+18:06:27,684  INFO Reflections:229 - Reflections took 2 ms to scan 1 urls, producing 3 keys and 4 values 
+18:06:27,687 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+18:06:27,692  INFO Reflections:229 - Reflections took 5 ms to scan 1 urls, producing 5 keys and 5 values 
+18:06:27,693 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/scene-core/0.10.7/scene-core-0.10.7.jar!/
+18:06:27,700  INFO Reflections:229 - Reflections took 5 ms to scan 1 urls, producing 8 keys and 9 values 
+18:06:27,702 DEBUG Reflections:186 - going to scan these urls:
+jar:file:/C:/Users/LuizRebeloMoreiraJ/.m2/repository/br/ufes/inf/lprm/situation-model/0.10.2/situation-model-0.10.2.jar!/
+18:06:27,703  INFO Reflections:229 - Reflections took 1 ms to scan 1 urls, producing 0 keys and 0 values 
+18:06:27,714 DEBUG DefaultAgenda:1397 - State was INACTIVE is now FIRING_UNTIL_HALT
+18:06:27,717 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+18:06:27,762 DEBUG DefaultAgenda:1397 - State was INACTIVE_ON_FIRING_UNTIL_HALT is now FIRING_UNTIL_HALT
+18:06:27,763 DEBUG DefaultAgenda:1397 - State was FIRING_UNTIL_HALT is now INACTIVE_ON_FIRING_UNTIL_HALT
+18:06:27,764 DEBUG SCENELogger:24 - INSERT - ews.vehiclecollision.entities.Truck@6e9c413e
+18:06:27,765 DEBUG DefaultAgenda:1397 - State was INACTIVE_ON_FIRING_UNTIL_HALT is now FIRING_UNTIL_HALT
+18:06:27,765 DEBUG SCENELogger:34 - UPDATE - ews.vehiclecollision.entities.Truck@6e9c413e

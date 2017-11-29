@@ -1,0 +1,29 @@
+package ews.vehiclecollision;
+
+import java.util.List;
+
+
+import br.ufes.inf.lprm.scene.model.Situation;
+import br.ufes.inf.lprm.situation.bindings.*;
+import br.ufes.inf.lprm.situation.model.Participation;
+import br.ufes.inf.lprm.situation.model.SituationType
+import br.ufes.inf.lprm.scene.util.SituationHelper;
+
+import ews.vehiclecollision.entities.Truck;
+
+
+declare LightCollision extends Situation
+  truck: Truck @part @key
+  accel: int @snapshot
+end
+
+rule "LightCollision" 
+@role(situation) 
+@type(LightCollision)
+  when
+    truck: Truck(accel: acceleration)
+  then
+  	System.out.println("RULE TRIGGERED!!");
+    SituationHelper.situationDetected(drools);
+end
+
